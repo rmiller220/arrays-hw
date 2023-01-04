@@ -24,3 +24,7 @@ p paid
 p friends [0]
 #this should show 20 points
 p points [3]
+
+#In this array, I used the delete command to remove the number 5 from the points array.
+points.delete (5) 
+p points
