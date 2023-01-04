@@ -18,3 +18,9 @@ p cost
 # In this array, I used the unshift command to add false to the beginning of the array
 paid.unshift false
 p paid
+
+#index postion refers to the postion of an element within an array. the index starts at '0' for the first item of the array. 
+#this should show my friend sam
+p friends [0]
+#this should show 20 points
+p points [3]
